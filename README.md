@@ -1,0 +1,2 @@
+# probable-system-Game-Python
+For this assignment, develop a word guessing game application. Create a list that contains 10 words and their descriptions. Your task is to have the application randomly select a word from the list and display a clue to the user. User will then try to guess the word based on the clue displayed. One round of game is five chances. Once the total number of chances becomes zero, the program should prompt the user whether to keep playing or exit the application.
